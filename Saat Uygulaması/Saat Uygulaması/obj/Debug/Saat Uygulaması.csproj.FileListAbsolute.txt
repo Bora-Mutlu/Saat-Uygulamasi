@@ -1,0 +1,20 @@
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\bin\Debug\Saat Uygulaması.exe.config
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\bin\Debug\Saat Uygulaması.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\bin\Debug\Saat Uygulaması.pdb
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat_Uygulaması.Form1.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat_Uygulaması.Properties.Resources.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.csproj.GenerateResource.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.pdb
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\bin\Debug\Saat Uygulaması.exe.config
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\bin\Debug\Saat Uygulaması.exe
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\bin\Debug\Saat Uygulaması.pdb
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.csproj.AssemblyReference.cache
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat_Uygulaması.Form1.resources
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat_Uygulaması.Properties.Resources.resources
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.csproj.GenerateResource.cache
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.csproj.CoreCompileInputs.cache
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.exe
+D:\Final Ödev işleri\Final Proje 3\Saat Uygulaması\Saat Uygulaması\obj\Debug\Saat Uygulaması.pdb
